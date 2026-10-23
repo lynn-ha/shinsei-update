@@ -1,0 +1,8 @@
+-- データの検索
+SELECT カラム名 FROM テーブル名 WHERE 条件
+-- データの追加
+INSERT INTO テーブル名 (カラム1, カラム2) VALUES (値1, 値2)
+-- データの更新
+UPDATE テーブル名 SET カラム名 = 新しい値 WHERE 条件
+-- データの削除
+DELETE FROM テーブル名 WHERE 条件
