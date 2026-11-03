@@ -1,0 +1,40 @@
+継続-けいぞく continuing
+
+無人化/省人化/投資削減
+むじんか/しょうじんか/とうしさくげん Automation/Labor Reduction/Investment Cuts
+
+構内物流の自動化 
+こうないぶつりゅうのじどうか
+
+課題 AMRの導入・運用・改善を各工場で自ら実施する体制の構築
+Kadai AMR no dounyuu unyou kaizen o kaku koujou de mizukara jisshi suru taisei no kouchiku
+
+方策 内製の部品搬送システムの導入により各工場がノウハウを習得
+Housaku naisei no buhin hansou shisutemu no dounyuu ni yori kaku koujou ga nou wa o shuutoku
+
+組立ライン
+Kumaritate line
+
+低減
+ていげん
+
+概算
+gaisan
+
+自部署
+jibusho
+
+うれしさ
+内製化によるシステム開発コスト低減、改善の内製化や横展
+ureshisa Naiseika ni yoru shisutemu kaihatsu kosuto teigen, kaizen no naiseika ya yokoten]
+
+今後の進め方
+工場を含めたITスキルの普及と習熟
+AMRを他機種対応した汎用化システム
+Kongo no Susumekata Koujou o fukumeta IT sukiru no fukyuu to shuujuku AMR o takishu taiou shita hanyouka shisutemu
+
+ー
+織込み時期
+Orikomi jiki
+
+
