@@ -1,36 +1,147 @@
-Japanese,Romaji,Kana,English
-情報共有,jouhou kyouyuu,じょうほうきょうゆう,information sharing
-定例会,teireikai,ていれいかい,regular meeting
-お話させていただきます,ohanashi sasete itadakimasu,おはなしさせていただきます,will explain (polite)
-QRコード,QR koodo,きゅーあーるこーど,QR code
-張り,hari,はり,posting/attaching
-完了,kanryou,かんりょう,completion
-昼休憩,hiru kyuukei,ひるきゅうけい,lunch break
-交代,koutai,こうたい,shift change
-狙って,neratte,ねらって,targeting/aiming for
-動作確認,dousa kakunin,どうさかくにん,operation check
-動作検証,dousa kenshou,どうさけんしょう,operation verification
-出勤,shukkin,しゅっきん,going to work
-予定,yotei,よてい,plan/schedule
-工事届,kouji todoke,こうじとどけ,work/construction notification
-回覧,kairan,かいらん,circulating document
-回覧中,kairanchuu,かいらんちゅう,current circulating for approval
-よろしくお願い致します,yoroshiku onegai itashimasu,よろしくおねがいいたします,thank you for your cooperation
-不良点,furyouten,ふりょうてん,problem/defects/bugs points
-不足点,fusokuten,ふそくてん,missing points
-洗い出す,araidasu,あらいだす,find out/list out/ identify
-渡す,watasu,わたす,hand over/give/provide
-統合,tougou,とうごう,integrate/combine/merge
-実績,jisseki,じっせき,actutal results/track records/achievement
-実機,jikki,じっき,actual machine/device/real hardware
-実施,jisshi,じっし,actually perform something that was planned
-複雑,fukuzatsu,ふくざつ,complicated/complex
-基礎教育,kisokyouiku,きそきょういく,basic education
-目次,mokuji,もくじ,table of contents
-中途採用サイト,chuutousaitor,ちゅうとうさいと,mid-career
-無償ソフト,mushousofuto,むしょうソフト,free-software
-有償ソフト,yuushousofuto,ゆうしょうソフトpaid-software
-推薦状,suisenjou,すいせんじょう,recommendation letter
-職能資格,shokunou shikaku, しょくのうしかく,Functional qualifications
-時間外, jikangai, じかんがい,Overtime
-通勤手当, tsuukinteate, つうきんてあて, commuting allowance
+Japanese,Hiragana,English
+情報共有,じょうほうきょうゆう,information sharing
+定例会,ていれいかい,regular meeting
+お話させていただきます,おはなしさせていただきます,will explain (polite)
+QRコード,きゅーあーるこーど,QR code
+張り,はり,posting/attaching
+完了,かんりょう,completion
+昼休憩,ひるきゅうけい,lunch break
+交代,こうたい,shift change
+狙って,ねらって,targeting/aiming for
+動作確認,どうさかくにん,operation check
+動作検証,どうさけんしょう,operation verification
+出勤,しゅっきん,going to work
+予定,よてい,plan/schedule
+工事届,こうじとどけ,work/construction notification
+回覧,かいらん,circulating document
+回覧中,かいらんちゅう,current circulating for approval
+よろしくお願い致します,よろしくおねがいいたします,thank you for your cooperation
+不良点,ふりょうてん,problem/defects/bugs points
+不足点,ふそくてん,missing points
+洗い出す,あらいだす,find out/list out/ identify
+渡す,わたす,hand over/give/provide
+統合,とうごう,integrate/combine/merge
+実績,じっせき,actutal results/track records/achievement
+実機,じっき,actual machine/device/real hardware
+実施,じっし,actually perform something that was planned
+複雑,ふくざつ,complicated/complex
+基礎教育,きそきょういく,basic education
+目次,もくじ,table of contents
+中途採用サイト,ちゅうとうさいと,mid-career
+無償ソフト,むしょうソフト,free-software
+有償ソフト,ゆうしょうソフトpaid-software
+推薦状,すいせんじょう,recommendation letter
+職能資格,しょくのうしかく,Functional qualifications
+時間外,じかんがい,Overtime
+通勤手当,つうきんてあて, commuting allowance
+来社時間,らいしゃじかん, time of visit to the office
+議事録,ぎじろく, meeting minutes
+
+測定条件案,そくていじょうけんあん, proposed measurement conditions
+無負荷走行直線速度,むふかそうこうちょくせんそくど, No-load running straight-line speed
+無負荷走行加速度,むふかそうこうかそくど, No-load running acceleration
+無負荷走行減速度,むふかそうこうげんそくど, No-load running deceleration
+無負荷回転速度,むふかかいてんそくど, No-load rotational speed
+無負荷回転加速度,むふかかいてんかそくど, No-load rotational acceleration
+無負荷回転減速度,むふかかいてんげんそくど, No-load rotational deceleration
+
+負荷走行直線速度,ふかそうこうちょくせんそくど, Load running straight-line speed
+負荷走行加速度,ふかそうこうかそくど, Load running acceleration
+負荷走行減速度,ふかそうこうげんそくど, Load running deceleration
+負荷回転速度,ふかかいてんそくど, Load rotational speed
+負荷回転加速度,ふかかいてんかそくど, Load rotational acceleration
+負荷回転減速度,ふかかいてんげんそくど, Load rotational deceleration
+
+
+障害物検出距離,しょうがいぶつけんしゅつきょり, Obstacle detection distance
+障害物停止距離,しょうがいぶつていしきょり, Obstacle stopping distance
+側方障害物検出距離,そくほうしょうがいぶつけんしゅつきょり, Side obstacle detection distance
+最大値,さいだいち, Maximum value
+位置決め動作無し,いちきめどうさなし, No positioning movement
+
+磁気テープ式, じきテープしき, Magnetic tape type
+群制御, ぐんせいぎょ, Group control
+固定経路, こていけいろ, Fixed route
+単純搬送, たんじゅん, Simple transport
+比較評価, ひかくひょうか, Comparison evaluation
+QRコードを隠す, かくす, Hide the QR code
+前進空走行, ぜんしんくうそうこう, Forward free run
+荷済み, にずみ, Loading up
+前進実有り走行,　ぜんしんじつありそうこう, Moving forward
+荷卸し,におろし, Unloading
+後進空走行, こうしんくうそうこう, Reverse free run
+実カーブ,じかーぶ, Actual curve
+棚への潜り込み, たなへのもぐりこみ, Crawling into the shelf
+後退,こうたい, Step Back
+直前,ちょくぜん, Just before
+急遽,きゅうきょ, suddenly
+理念,りねん, philosophy
+標準搭載, ひょうじゅんとうさい, Standard feature
+復旧, ふっきゅ, Recovery
+故障サーバー,こしょうサーバー, Broken server or server down
+入場打刻, にゅうじょうだこく, Time in
+退場打刻, たいじょうだこく, Timeout
+終業差異, しゅうぎょうさい, end of work difference
+基本概念, きほんがいねん, basic concept
+関連サイト,かんれんサイト, related sites
+企画, きかく, Planning an idea/ Project proposal (What should we create or do?)
+計画, けいかく, Plan / Schedule (How and when will we do it?)
+交渉する, こうしょう, Negotiate
+無償, むしょう, Free
+但し, ただし, However
+半日程度,はんにちていど, About half a day
+候補日,こうほび, Possible date
+SE同席, SEどうせき, SE attendance
+人工賃,じんこうちん, Labor cost
+上手い事できる, うまいことできる, we can manage it well
+SE捕まえる, つかまえる, catch SE
+日報タブレット, にっぽうタブレット, daily tablet
+影響が出ます,えいきょうがでます, it will affect things
+撤去される, てっきょされる, being removed
+安定する, あんてい, stabilize
+維持する, maintain
+出展,しゅってん, exhibit
+倉庫管理,そうこかんり, warehouse management system
+倉庫制御,そうこせいぎ, warehouse control system
+主な違い, おもなちがい, main difference
+自律走行ロボット,じりつそうこうロボット, AMR
+無人搬送車,むじんはんそうしゃ,AGV
+右端, みぎはし, right end
+緊急お知らせ, きんきゅう, emergency notice
+社達, しゃたつ, official company announcements
+規程,きてい, regulation
+細則,さいそく, detail rule
+要領,ようりょう,instructions or procedures
+方針,ほうしん,policy/direction/general approach
+実績,じっせき,actual results
+廃却,はいきゃく,disposal/scrapping
+固定資産, こていしさん, fixed assets
+最善, さいぜん, the best
+遮断器, しゃだんき, circuit breaker
+電卓, でんたく, calculator
+バッチリ,perfect
+解放,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
